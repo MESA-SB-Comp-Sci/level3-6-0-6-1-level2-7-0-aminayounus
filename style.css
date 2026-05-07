@@ -1,7 +1,17 @@
 *{
+    h1{
+        color:pink
+    }
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    p{ 
+
+        color:blue
+    }
+    p{ 
+color:green 
+    }
 }
 
 /* write all your rules below */
