@@ -1,5 +1,10 @@
 *{
     h1{
+        width:82vw;
+        background-color: pink;
+        border:1rem solid red;
+        margin:3rem;
+        padding:0rem
         color:pink
     }
     box-sizing: border-box;
@@ -15,3 +20,32 @@ color:green
 }
 
 /* write all your rules below */
+.box-1-design{
+background-color: aqua;
+padding: 7rem;
+font-size:medium;
+margin:0rem;
+border:0rem;
+}
+
+.box-2-design{
+width:55vw;
+height:20vh;
+background-color: yellow;
+border:1rem pink solid;
+padding-bottom: 2rem;
+margin:2rem;
+}
+#blue-text{
+color:blue;
+}
+
+.green-text{
+color: rgb(50,166,50);
+
+}
+
+.purple-text {
+color:purple;
+
+}
