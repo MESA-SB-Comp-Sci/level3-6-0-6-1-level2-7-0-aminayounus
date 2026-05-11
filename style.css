@@ -36,11 +36,11 @@ border:1rem pink solid;
 padding-bottom: 2rem;
 margin:2rem;
 }
-#blue-text{
+.blue-text{
 color:blue;
 }
 
-.green-text{
+#green-text{
 color: rgb(50,166,50);
 
 }
